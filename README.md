@@ -46,6 +46,7 @@ I specialize in building scalable web applications with a focus on **React**, **
 ## 🌟 Featured Projects
 
 - **[Atom Starter Kit](https://github.com/rmirandasv/atom-starter-kit)** - Modern Laravel + React starter with authentication, testing, and CI/CD
+- **[Clip](https://github.com/rmirandasv/clip)** - A beautiful, offline-first desktop application for managing your markdown notes with a modern interface and integrated editor.
 
 ## 📫 Let's Connect
 
